@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tbl{
+   
+    margin-top: 7px;
+    
+    
+}
+.tbl th{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding: 0 85px 15px;
+}
+
+.tbl td{
+    font-size: 17px;
+    padding: 0 85px;
+   
+}
